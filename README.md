@@ -28,4 +28,6 @@
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[RFC 2236: Internet Group Management Protocol, Version 2](https://datatracker.ietf.org/doc/html/rfc2236)*
+* *[RFC 2759: Microsoft PPP CHAP Extensions, Version 2](https://datatracker.ietf.org/doc/html/rfc2759)*
+* *[RFC 5415: Control And Provisioning of Wireless Access Points (CAPWAP) Protocol Specification](https://datatracker.ietf.org/doc/html/rfc5415)*
