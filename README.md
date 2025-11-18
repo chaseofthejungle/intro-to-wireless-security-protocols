@@ -18,7 +18,11 @@
 
 ## 2. <a name="comparison">Comparison Table: WEP, WPA, WPA2, WPA3</a>
 
-(TODO)
+| Characteristic | Wired Equivalent Privacy (WEP) | Wi-Fi Protected Access (WPA) | WPA2 | WPA3 |
+| :---: | :---: | :---: | :---: | :---: |
+| Quality | | | | |
+| Encryption Standard | | | | |
+| Year Released | | | | |
 
 <hr />
 
