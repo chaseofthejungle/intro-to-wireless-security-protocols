@@ -1,6 +1,6 @@
-# Intro to Wireless Security Protocols
+# Intro to Wireless Security Protocols Overview Guide
 
-**TODO:** A brief introductory guide to WEP, WPA, WPA2, and WPA3.
+**Description/Overview:** Four commonly known wireless security protocols include WEP and three versions of WPA: WPA, WPA2, and WPA3. Of these four protocols, WEP and WPA are widely considered obsolete (although WPA introduced security improvements, through the implementation of dynamic encryption keys and TKIP), WPA2 is still in popular use today (especially when WPA3 is not readily plausible), and WPA3 offers the strongest encryption, authentication, and other protections.
 
 #### Table of Contents
 
