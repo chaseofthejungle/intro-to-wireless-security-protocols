@@ -4,19 +4,26 @@
 
 #### Table of Contents
 
-1. [Wireless Security Protocols Overview](#protocols)
-2. [Comparison Table: WEP, WPA, WPA2, WPA3](#comparison)
-3. [Supplemental Resources](#supplemental)
+1. [Who is the Wi-Fi Alliance?](#alliance)
+2. [Wireless Security Protocols Overview](#protocols)
+3. [Comparison Table: WEP, WPA, WPA2, WPA3](#comparison)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. <a name="protocols">Wireless Security Protocols Overview</a>
+## 1. <a name="alliance">Who is the Wi-Fi Alliance?</a>
 
 (TODO)
 
 <hr />
 
-## 2. <a name="comparison">Comparison Table: WEP, WPA, WPA2, WPA3</a>
+## 2. <a name="protocols">Wireless Security Protocols Overview</a>
+
+(TODO)
+
+<hr />
+
+## 3. <a name="comparison">Comparison Table: WEP, WPA, WPA2, WPA3</a>
 
 | Characteristic | Wired Equivalent Privacy (WEP) | Wi-Fi Protected Access (WPA) | WPA2 | WPA3 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -26,7 +33,7 @@
 
 <hr />
 
-## 3. <a name="supplemental">Supplemental Resources</a>
+## 4. <a name="supplemental">Supplemental Resources</a>
 
 * *[RFC 2236: Internet Group Management Protocol, Version 2](https://datatracker.ietf.org/doc/html/rfc2236)*
 * *[RFC 2759: Microsoft PPP CHAP Extensions, Version 2](https://datatracker.ietf.org/doc/html/rfc2759)*
