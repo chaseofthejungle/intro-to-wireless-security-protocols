@@ -20,9 +20,9 @@
 
 | Characteristic | Wired Equivalent Privacy (WEP) | Wi-Fi Protected Access (WPA) | WPA2 | WPA3 |
 | :---: | :---: | :---: | :---: | :---: |
-| Quality | | | | |
-| Encryption Standard | | | | |
-| Year Released | | | | |
+| Quality | Poor (obsolete). Heavily vulnerable. | Poor (obsolete). Heavily vulnerable, though not as much as WEP. | Good, but WPA3 is more secure. | Most secure (strongest encryption and authentication). |
+| Encryption Standard | RC4 (with Static Keys) | TKIP (with Dynamic Keys) | AES (with CCMP) | AES (with GCMP) |
+| Year Introduced | 1997 | 2003 | 2004 | 2018 |
 
 <hr />
 
