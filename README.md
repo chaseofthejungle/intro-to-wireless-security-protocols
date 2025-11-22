@@ -29,6 +29,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Quality | Poor (obsolete). Heavily vulnerable. | Poor (obsolete). Heavily vulnerable, though not as much as WEP. | Good, but WPA3 is more secure. | Most secure (strongest encryption and authentication). |
 | Encryption Standard | RC4 (with Static Keys) | TKIP (with Dynamic Keys) | AES (with CCMP) | AES (with GCMP) |
+| Key Management | Static | Dynamic | Dynamic | Dynamic and Unique keys for Individualized/Custom Encryption) |
 | When to Use | Ideally Never | Ideally Never | If WPA3 is Not Supported | If Network Supports It, Use It (Update Devices to Do So, if Possible) |
 | Year Introduced | 1997 | 2003 | 2004 | 2018 |
 
