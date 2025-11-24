@@ -13,7 +13,7 @@
 
 ## 1. <a name="alliance">Who is the Wi-Fi Alliance?</a>
 
-(TODO)
+The *[Wi-Fi Alliance](https://www.wi-fi.org/)* (formerly the Wireless Ethernet Compatibility Alliance, or *WECA*) is an Austin, Texas based non-profit organization that claims the legal trademark rights to the 'Wi-Fi Certified' logo and operates a variety of Wi-Fi related certification programs. When vendors place the Wi-Fi trademark on their devices, it is specifically in reference to this organization and its technology and standards.
 
 <hr />
 
