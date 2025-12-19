@@ -7,7 +7,8 @@
 1. [Who is the Wi-Fi Alliance?](#alliance)
 2. [Wireless Security Protocols Overview](#protocols)
 3. [Comparison Table: WEP, WPA, WPA2, WPA3](#comparison)
-4. [Supplemental Resources](#supplemental)
+4. [Cracking Tools](#cracking)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -36,7 +37,13 @@ The *[Wi-Fi Alliance](https://www.wi-fi.org/)* (formerly the Wireless Ethernet C
 
 <hr />
 
-## 4. <a name="supplemental">Supplemental Resources</a>
+## 4. <a name="cracking">Cracking Tools</a>
+
+(TODO)
+
+<hr />
+
+## 5. <a name="supplemental">Supplemental Resources</a>
 
 * *[RFC 2236: Internet Group Management Protocol, Version 2](https://datatracker.ietf.org/doc/html/rfc2236)*
 * *[RFC 2759: Microsoft PPP CHAP Extensions, Version 2](https://datatracker.ietf.org/doc/html/rfc2759)*
