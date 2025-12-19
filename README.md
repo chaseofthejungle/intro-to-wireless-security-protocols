@@ -32,7 +32,7 @@ The *[Wi-Fi Alliance](https://www.wi-fi.org/)* (formerly the Wireless Ethernet C
 | Key Management | Static | Dynamic | Dynamic | Dynamic and Unique keys for Individualized/Custom Encryption) |
 | When to Use | Ideally Never | Ideally Never | If WPA3 is Not Supported | If Network Supports It, Use It (Update Devices to Do So, if Possible) |
 | Year Introduced | 1997 | 2003 | 2004 | 2018 |
-
+| How Long to Crack | Within Minutes | Highly Variable (depending on password strength) | Highly Variable (depending on password strength) | Implausible to Crack (if passwords are complex) |
 
 <hr />
 
