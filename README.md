@@ -39,7 +39,14 @@ The *[Wi-Fi Alliance](https://www.wi-fi.org/)* (formerly the Wireless Ethernet C
 
 ## 4. <a name="cracking">Cracking Tools</a>
 
-(TODO)
+(TODO: Section covering the following tools...
+
+* **Aircrack-ng**
+* **Hashcat**
+* **Kismet**
+* **PixieWPS**
+* **Weaver**
+* **Wifite**)
 
 <hr />
 
